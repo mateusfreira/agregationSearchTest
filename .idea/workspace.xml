@@ -1,0 +1,1497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa28a7f6-709e-4869-a407-569174b14a6e" name="Default" comment="" />
+    <ignored path="agregationSearchTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/agregationSearchTest$Main.coverage" NAME="Main Coverage Results" MODIFIED="1439251569136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="agregationSearchTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SearchParse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/elasticsearch/search/SearchParse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33213645">
+              <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1692#1693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestSearchAction.java" pinned="false" current-in-tab="false">
+        <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadPool.java" pinned="false" current-in-tab="false">
+        <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/threadpool/ThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="96" column="21" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="21" />
+              <folding>
+                <element signature="class#Names#0;class#ThreadPool#0" expanded="false" />
+                <element signature="e#4071#4072#0" expanded="true" />
+                <element signature="e#4137#4138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/node/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="125" column="24" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultSearchContext.java" pinned="false" current-in-tab="false">
+        <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/internal/DefaultSearchContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="132" column="78" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
+        <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/index/engine/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="581" column="0" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41247#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#6306#6307#0" expanded="false" />
+                <element signature="e#6341#6342#0" expanded="false" />
+                <element signature="e#6451#6452#0" expanded="false" />
+                <element signature="e#6490#6491#0" expanded="false" />
+                <element signature="e#6994#6995#0" expanded="false" />
+                <element signature="e#7039#7040#0" expanded="false" />
+                <element signature="e#7887#7888#0" expanded="false" />
+                <element signature="e#7922#7923#0" expanded="false" />
+                <element signature="e#12713#12714#0" expanded="false" />
+                <element signature="e#12783#12784#0" expanded="false" />
+                <element signature="e#18015#18016#0" expanded="false" />
+                <element signature="e#18101#18102#0" expanded="false" />
+                <element signature="e#20512#20513#0" expanded="false" />
+                <element signature="e#20569#20570#0" expanded="false" />
+                <element signature="e#24843#24844#0" expanded="false" />
+                <element signature="e#24880#24881#0" expanded="false" />
+                <element signature="e#24919#24920#0" expanded="false" />
+                <element signature="e#24975#24976#0" expanded="false" />
+                <element signature="e#25018#25019#0" expanded="false" />
+                <element signature="e#25057#25058#0" expanded="false" />
+                <element signature="e#26558#26559#0" expanded="false" />
+                <element signature="e#26600#26601#0" expanded="false" />
+                <element signature="e#26645#26646#0" expanded="false" />
+                <element signature="e#26684#26685#0" expanded="false" />
+                <element signature="e#26713#26714#0" expanded="false" />
+                <element signature="e#26752#26753#0" expanded="false" />
+                <element signature="e#26784#26785#0" expanded="false" />
+                <element signature="e#26830#26831#0" expanded="false" />
+                <element signature="e#26860#26861#0" expanded="false" />
+                <element signature="e#26904#26905#0" expanded="false" />
+                <element signature="e#26939#26940#0" expanded="false" />
+                <element signature="e#26988#26989#0" expanded="false" />
+                <element signature="e#27023#27024#0" expanded="false" />
+                <element signature="e#27074#27075#0" expanded="false" />
+                <element signature="e#27103#27104#0" expanded="false" />
+                <element signature="e#27148#27149#0" expanded="false" />
+                <element signature="e#27181#27182#0" expanded="false" />
+                <element signature="e#27224#27225#0" expanded="false" />
+                <element signature="e#27446#27447#0" expanded="false" />
+                <element signature="e#27494#27495#0" expanded="false" />
+                <element signature="e#27552#27553#0" expanded="false" />
+                <element signature="e#27596#27597#0" expanded="false" />
+                <element signature="e#27640#27641#0" expanded="false" />
+                <element signature="e#27687#27688#0" expanded="false" />
+                <element signature="e#27733#27734#0" expanded="false" />
+                <element signature="e#27786#27787#0" expanded="false" />
+                <element signature="e#27820#27821#0" expanded="false" />
+                <element signature="e#27868#27869#0" expanded="false" />
+                <element signature="e#27908#27909#0" expanded="false" />
+                <element signature="e#27954#27955#0" expanded="false" />
+                <element signature="e#27996#27997#0" expanded="false" />
+                <element signature="e#28044#28045#0" expanded="false" />
+                <element signature="e#28159#28160#0" expanded="false" />
+                <element signature="e#28204#28205#0" expanded="false" />
+                <element signature="e#28249#28250#0" expanded="false" />
+                <element signature="e#28295#28296#0" expanded="false" />
+                <element signature="e#28406#28407#0" expanded="false" />
+                <element signature="e#28449#28450#0" expanded="false" />
+                <element signature="e#29508#29509#0" expanded="false" />
+                <element signature="e#29550#29551#0" expanded="false" />
+                <element signature="e#29595#29596#0" expanded="false" />
+                <element signature="e#29646#29647#0" expanded="false" />
+                <element signature="e#30368#30369#0" expanded="false" />
+                <element signature="e#30407#30408#0" expanded="false" />
+                <element signature="e#30457#30458#0" expanded="false" />
+                <element signature="e#30498#30499#0" expanded="false" />
+                <element signature="e#30568#30569#0" expanded="false" />
+                <element signature="e#30616#30617#0" expanded="false" />
+                <element signature="e#31930#31931#0" expanded="false" />
+                <element signature="e#31972#31973#0" expanded="false" />
+                <element signature="e#32024#32025#0" expanded="false" />
+                <element signature="e#32066#32067#0" expanded="false" />
+                <element signature="e#32098#32099#0" expanded="false" />
+                <element signature="e#32138#32139#0" expanded="false" />
+                <element signature="e#32168#32169#0" expanded="false" />
+                <element signature="e#32206#32207#0" expanded="false" />
+                <element signature="e#32235#32236#0" expanded="false" />
+                <element signature="e#32274#32275#0" expanded="false" />
+                <element signature="e#32607#32608#0" expanded="false" />
+                <element signature="e#32650#32651#0" expanded="false" />
+                <element signature="e#32694#32695#0" expanded="false" />
+                <element signature="e#32741#32742#0" expanded="false" />
+                <element signature="e#32775#32776#0" expanded="false" />
+                <element signature="e#32816#32817#0" expanded="false" />
+                <element signature="e#32931#32932#0" expanded="false" />
+                <element signature="e#32976#32977#0" expanded="false" />
+                <element signature="e#33021#33022#0" expanded="false" />
+                <element signature="e#33067#33068#0" expanded="false" />
+                <element signature="e#33178#33179#0" expanded="false" />
+                <element signature="e#33221#33222#0" expanded="false" />
+                <element signature="e#33292#33293#0" expanded="false" />
+                <element signature="e#33340#33341#0" expanded="false" />
+                <element signature="e#33398#33399#0" expanded="false" />
+                <element signature="e#33442#33443#0" expanded="false" />
+                <element signature="e#34449#34450#0" expanded="false" />
+                <element signature="e#34490#34491#0" expanded="false" />
+                <element signature="e#34532#34533#0" expanded="false" />
+                <element signature="e#34574#34575#0" expanded="false" />
+                <element signature="e#34609#34610#0" expanded="false" />
+                <element signature="e#34650#34651#0" expanded="false" />
+                <element signature="e#34696#34697#0" expanded="false" />
+                <element signature="e#34743#34744#0" expanded="false" />
+                <element signature="e#34781#34782#0" expanded="false" />
+                <element signature="e#34823#34824#0" expanded="false" />
+                <element signature="e#34858#34859#0" expanded="false" />
+                <element signature="e#34909#34910#0" expanded="false" />
+                <element signature="e#34960#34961#0" expanded="false" />
+                <element signature="e#35003#35004#0" expanded="false" />
+                <element signature="e#35047#35048#0" expanded="false" />
+                <element signature="e#35089#35090#0" expanded="false" />
+                <element signature="e#35204#35205#0" expanded="false" />
+                <element signature="e#35249#35250#0" expanded="false" />
+                <element signature="e#35485#35486#0" expanded="false" />
+                <element signature="e#35528#35529#0" expanded="false" />
+                <element signature="e#35916#35917#0" expanded="false" />
+                <element signature="e#35960#35961#0" expanded="false" />
+                <element signature="e#35989#35990#0" expanded="false" />
+                <element signature="e#36023#36024#0" expanded="false" />
+                <element signature="e#36056#36057#0" expanded="false" />
+                <element signature="e#36094#36095#0" expanded="false" />
+                <element signature="e#36253#36254#0" expanded="false" />
+                <element signature="e#36295#36296#0" expanded="false" />
+                <element signature="e#37422#37423#0" expanded="false" />
+                <element signature="e#37459#37460#0" expanded="false" />
+                <element signature="e#37492#37493#0" expanded="false" />
+                <element signature="e#37535#37536#0" expanded="false" />
+                <element signature="e#37596#37597#0" expanded="false" />
+                <element signature="e#37633#37634#0" expanded="false" />
+                <element signature="e#37671#37672#0" expanded="false" />
+                <element signature="e#37715#37716#0" expanded="false" />
+                <element signature="e#37776#37777#0" expanded="false" />
+                <element signature="e#37822#37823#0" expanded="false" />
+                <element signature="e#40353#40354#0" expanded="false" />
+                <element signature="e#40406#40407#0" expanded="false" />
+                <element signature="e#40720#40721#0" expanded="false" />
+                <element signature="e#40777#40778#0" expanded="false" />
+                <element signature="e#41147#41148#0" expanded="false" />
+                <element signature="e#41197#41198#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IndexSearcher.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///media/mateus/new1/git/appbase/elasticsearch/distribution/zip/target/lib/lucene-core-5.2.1.jar!/org/apache/lucene/search/IndexSearcher.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SumBucketPipelineAggregator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/SumBucketPipelineAggregator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AgrregationUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/AgrregationUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MaxTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/PipelineUtil.java" />
+        <option value="$PROJECT_DIR$/src/AgregationTest.java" />
+        <option value="$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/AvgBucketPipelineAggregator.java" />
+        <option value="$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/MaxBucketPipelineAggregator.java" />
+        <option value="$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/SumBucketPipelineAggregator.java" />
+        <option value="$PROJECT_DIR$/src/MainBuilder.java" />
+        <option value="$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/AgrregationUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/ClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/SearchParse.java" />
+        <option value="$PROJECT_DIR$/src/org/elasticsearch/search/SearchParse.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="agregationSearchTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pipeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.09057971" />
+    <property name="last_opened_file_path" value="/media/mateus/new1/git/appbase/elasticsearch" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="editor.config.accepted" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.elasticsearch.search" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SearchParse">
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="agregationSearchTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClientUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.elasticsearch.search.aggregations.pipeline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.elasticsearch.search.aggregations.pipeline.ClientUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="agregationSearchTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SearchParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.elasticsearch.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.elasticsearch.search.SearchParse" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="agregationSearchTest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClientUtil" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SearchParse" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.SearchParse" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ClientUtil" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa28a7f6-709e-4869-a407-569174b14a6e" name="Default" comment="" />
+      <created>1439195849161</created>
+      <option name="number" value="Default" />
+      <updated>1439195849161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.094135806" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46450618" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17450199" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28703704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1967655" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4884462" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.7345679" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1967655" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13864543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28703704" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4884462" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47530866" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46450618" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960325" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///media/mateus/new/git/appbase/elasticsearch/core/target/elasticsearch-2.0.0-beta1-SNAPSHOT.jar!/org/elasticsearch/search/aggregations/AggregatorBase.class</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///media/mateus/new1/git/appbase/elasticsearch/distribution/zip/target/lib/elasticsearch-2.0.0-beta1-SNAPSHOT.jar!/org/elasticsearch/search/controller/SearchPhaseController.class</url>
+          <line>294</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/BucketMetricsPipelineAggregator.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/BucketMetricsPipelineAggregator.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/elasticsearch/search/SearchParse.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="29" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="respose" language="JAVA" custom="" />
+        <watch expression="bucketsPaths()" language="JAVA" custom="" />
+        <watch expression="aggregation.getName()" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///media/mateus/new1/git/appbase/elasticsearch/distribution/zip/target/lib/lucene-core-5.2.1.jar!/org/apache/lucene/search/TopDocs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/util/concurrent/AtomicArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35034013">
+          <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///media/mateus/new1/git/appbase/elasticsearch/distribution/zip/target/lib/guava-18.0.jar!/com/google/common/collect/ImmutableSortedMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1292517">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/settings/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35034013">
+          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/Aggregations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/internal/SearchContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/percolator/PercolateContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/AggregationPhase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="146" column="83" selection-start-line="146" selection-start-column="83" selection-end-line="146" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/SearchContextAggregations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/BucketMetricsBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5048544">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/avg/AvgBucketBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/PipelineAggregatorBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/avg/AvgBucketPipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar!/java/lang/ClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.862069">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/BucketHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/SiblingPipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="76" selection-start-line="35" selection-start-column="76" selection-end-line="35" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/InternalMultiBucketAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/bucketmetrics/BucketMetricsPipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#5360#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2368#2369#0" expanded="false" />
+            <element signature="e#2391#2392#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/controller/SearchPhaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="300" column="0" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/InternalAggregations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="172" column="0" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/query/QuerySearchResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="126" column="44" selection-start-line="126" selection-start-column="44" selection-end-line="126" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/InternalAggregation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/PipelineAggregatorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="23" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/aggregations/pipeline/PipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="89" column="67" selection-start-line="89" selection-start-column="55" selection-end-line="89" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/AvgBucketPipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/http/netty/NettyHttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/rest/RestRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="427" column="9" selection-start-line="427" selection-start-column="9" selection-end-line="427" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/client/support/AbstractClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="568" column="16" selection-start-line="568" selection-start-column="16" selection-end-line="568" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/ParseFieldMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/bytes/BytesReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/bytes/BytesArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/cluster/metadata/SnapshotId.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/cluster/routing/RestoreSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/cluster/routing/ShardRouting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="113" selection-start-line="95" selection-start-column="113" selection-end-line="95" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/inject/Inject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/internal/ShardSearchRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#2064#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/SearchShardTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#4109#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1712#1713#0" expanded="false" />
+            <element signature="e#1750#1751#0" expanded="false" />
+            <element signature="e#1797#1798#0" expanded="false" />
+            <element signature="e#1828#1829#0" expanded="false" />
+            <element signature="e#1860#1861#0" expanded="false" />
+            <element signature="e#1894#1895#0" expanded="false" />
+            <element signature="e#1923#1924#0" expanded="false" />
+            <element signature="e#1960#1961#0" expanded="false" />
+            <element signature="e#1992#1993#0" expanded="false" />
+            <element signature="e#2022#2023#0" expanded="false" />
+            <element signature="e#2053#2054#0" expanded="false" />
+            <element signature="e#2086#2087#0" expanded="false" />
+            <element signature="e#2114#2115#0" expanded="false" />
+            <element signature="e#2144#2145#0" expanded="false" />
+            <element signature="e#2175#2176#0" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/common/unit/TimeValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#9637#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1720#1721#0" expanded="false" />
+            <element signature="e#1785#1786#0" expanded="false" />
+            <element signature="e#1845#1846#0" expanded="false" />
+            <element signature="e#1912#1913#0" expanded="false" />
+            <element signature="e#1974#1975#0" expanded="false" />
+            <element signature="e#2037#2038#0" expanded="false" />
+            <element signature="e#2099#2100#0" expanded="false" />
+            <element signature="e#2162#2163#0" expanded="false" />
+            <element signature="e#2220#2221#0" expanded="false" />
+            <element signature="e#2279#2280#0" expanded="false" />
+            <element signature="e#2410#2411#0" expanded="false" />
+            <element signature="e#2461#2462#0" expanded="false" />
+            <element signature="e#2620#2621#0" expanded="false" />
+            <element signature="e#2669#2670#0" expanded="false" />
+            <element signature="e#2699#2700#0" expanded="false" />
+            <element signature="e#2729#2730#0" expanded="false" />
+            <element signature="e#2757#2758#0" expanded="false" />
+            <element signature="e#2807#2808#0" expanded="false" />
+            <element signature="e#2838#2839#0" expanded="false" />
+            <element signature="e#2869#2870#0" expanded="false" />
+            <element signature="e#2897#2898#0" expanded="false" />
+            <element signature="e#2947#2948#0" expanded="false" />
+            <element signature="e#2978#2979#0" expanded="false" />
+            <element signature="e#3009#3010#0" expanded="false" />
+            <element signature="e#3038#3039#0" expanded="false" />
+            <element signature="e#3089#3090#0" expanded="false" />
+            <element signature="e#3121#3122#0" expanded="false" />
+            <element signature="e#3153#3154#0" expanded="false" />
+            <element signature="e#3182#3183#0" expanded="false" />
+            <element signature="e#3233#3234#0" expanded="false" />
+            <element signature="e#3265#3266#0" expanded="false" />
+            <element signature="e#3297#3298#0" expanded="false" />
+            <element signature="e#3324#3325#0" expanded="false" />
+            <element signature="e#3373#3374#0" expanded="false" />
+            <element signature="e#3403#3404#0" expanded="false" />
+            <element signature="e#3433#3434#0" expanded="false" />
+            <element signature="e#3459#3460#0" expanded="false" />
+            <element signature="e#3507#3508#0" expanded="false" />
+            <element signature="e#3536#3537#0" expanded="false" />
+            <element signature="e#3565#3566#0" expanded="false" />
+            <element signature="e#3599#3600#0" expanded="false" />
+            <element signature="e#3645#3646#0" expanded="false" />
+            <element signature="e#3682#3683#0" expanded="false" />
+            <element signature="e#3717#3718#0" expanded="false" />
+            <element signature="e#3751#3752#0" expanded="false" />
+            <element signature="e#3797#3798#0" expanded="false" />
+            <element signature="e#3834#3835#0" expanded="false" />
+            <element signature="e#3869#3870#0" expanded="false" />
+            <element signature="e#3904#3905#0" expanded="false" />
+            <element signature="e#3950#3951#0" expanded="false" />
+            <element signature="e#3988#3989#0" expanded="false" />
+            <element signature="e#4024#4025#0" expanded="false" />
+            <element signature="e#4059#4060#0" expanded="false" />
+            <element signature="e#4105#4106#0" expanded="false" />
+            <element signature="e#4143#4144#0" expanded="false" />
+            <element signature="e#4179#4180#0" expanded="false" />
+            <element signature="e#4212#4213#0" expanded="false" />
+            <element signature="e#4258#4259#0" expanded="false" />
+            <element signature="e#4294#4295#0" expanded="false" />
+            <element signature="e#4328#4329#0" expanded="false" />
+            <element signature="e#4360#4361#0" expanded="false" />
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4441#4442#0" expanded="false" />
+            <element signature="e#4474#4475#0" expanded="false" />
+            <element signature="e#9592#9593#0" expanded="false" />
+            <element signature="e#9633#9634#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="25" selection-start-line="156" selection-start-column="25" selection-end-line="158" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#54982#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#11124#11125#0" expanded="false" />
+            <element signature="e#11172#11173#0" expanded="false" />
+            <element signature="e#41191#41192#0" expanded="false" />
+            <element signature="e#41240#41241#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/internal/ShardSearchTransportRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5154#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3006#3007#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="false" />
+            <element signature="e#3102#3103#0" expanded="false" />
+            <element signature="e#3158#3159#0" expanded="false" />
+            <element signature="e#3203#3204#0" expanded="false" />
+            <element signature="e#3257#3258#0" expanded="false" />
+            <element signature="e#3309#3310#0" expanded="false" />
+            <element signature="e#3364#3365#0" expanded="false" />
+            <element signature="e#3427#3428#0" expanded="false" />
+            <element signature="e#3481#3482#0" expanded="false" />
+            <element signature="e#3538#3539#0" expanded="false" />
+            <element signature="e#3598#3599#0" expanded="false" />
+            <element signature="e#3647#3648#0" expanded="false" />
+            <element signature="e#3710#3711#0" expanded="false" />
+            <element signature="e#3762#3763#0" expanded="false" />
+            <element signature="e#3821#3822#0" expanded="false" />
+            <element signature="e#3877#3878#0" expanded="false" />
+            <element signature="e#3942#3943#0" expanded="false" />
+            <element signature="e#3989#3990#0" expanded="false" />
+            <element signature="e#4049#4050#0" expanded="false" />
+            <element signature="e#4097#4098#0" expanded="false" />
+            <element signature="e#4154#4155#0" expanded="false" />
+            <element signature="e#4214#4215#0" expanded="false" />
+            <element signature="e#4277#4278#0" expanded="false" />
+            <element signature="e#4328#4329#0" expanded="false" />
+            <element signature="e#4389#4390#0" expanded="false" />
+            <element signature="e#4433#4434#0" expanded="false" />
+            <element signature="e#4488#4489#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/appbase/elasticsearch/search/aggregation/pipeline/SumBucketPipelineAggregator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///media/mateus/new1/git/appbase/elasticsearch/distribution/zip/target/lib/lucene-core-5.2.1.jar!/org/apache/lucene/search/IndexSearcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/index/engine/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="581" column="0" selection-start-line="581" selection-start-column="0" selection-end-line="581" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41247#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#6306#6307#0" expanded="false" />
+            <element signature="e#6341#6342#0" expanded="false" />
+            <element signature="e#6451#6452#0" expanded="false" />
+            <element signature="e#6490#6491#0" expanded="false" />
+            <element signature="e#6994#6995#0" expanded="false" />
+            <element signature="e#7039#7040#0" expanded="false" />
+            <element signature="e#7887#7888#0" expanded="false" />
+            <element signature="e#7922#7923#0" expanded="false" />
+            <element signature="e#12713#12714#0" expanded="false" />
+            <element signature="e#12783#12784#0" expanded="false" />
+            <element signature="e#18015#18016#0" expanded="false" />
+            <element signature="e#18101#18102#0" expanded="false" />
+            <element signature="e#20512#20513#0" expanded="false" />
+            <element signature="e#20569#20570#0" expanded="false" />
+            <element signature="e#24843#24844#0" expanded="false" />
+            <element signature="e#24880#24881#0" expanded="false" />
+            <element signature="e#24919#24920#0" expanded="false" />
+            <element signature="e#24975#24976#0" expanded="false" />
+            <element signature="e#25018#25019#0" expanded="false" />
+            <element signature="e#25057#25058#0" expanded="false" />
+            <element signature="e#26558#26559#0" expanded="false" />
+            <element signature="e#26600#26601#0" expanded="false" />
+            <element signature="e#26645#26646#0" expanded="false" />
+            <element signature="e#26684#26685#0" expanded="false" />
+            <element signature="e#26713#26714#0" expanded="false" />
+            <element signature="e#26752#26753#0" expanded="false" />
+            <element signature="e#26784#26785#0" expanded="false" />
+            <element signature="e#26830#26831#0" expanded="false" />
+            <element signature="e#26860#26861#0" expanded="false" />
+            <element signature="e#26904#26905#0" expanded="false" />
+            <element signature="e#26939#26940#0" expanded="false" />
+            <element signature="e#26988#26989#0" expanded="false" />
+            <element signature="e#27023#27024#0" expanded="false" />
+            <element signature="e#27074#27075#0" expanded="false" />
+            <element signature="e#27103#27104#0" expanded="false" />
+            <element signature="e#27148#27149#0" expanded="false" />
+            <element signature="e#27181#27182#0" expanded="false" />
+            <element signature="e#27224#27225#0" expanded="false" />
+            <element signature="e#27446#27447#0" expanded="false" />
+            <element signature="e#27494#27495#0" expanded="false" />
+            <element signature="e#27552#27553#0" expanded="false" />
+            <element signature="e#27596#27597#0" expanded="false" />
+            <element signature="e#27640#27641#0" expanded="false" />
+            <element signature="e#27687#27688#0" expanded="false" />
+            <element signature="e#27733#27734#0" expanded="false" />
+            <element signature="e#27786#27787#0" expanded="false" />
+            <element signature="e#27820#27821#0" expanded="false" />
+            <element signature="e#27868#27869#0" expanded="false" />
+            <element signature="e#27908#27909#0" expanded="false" />
+            <element signature="e#27954#27955#0" expanded="false" />
+            <element signature="e#27996#27997#0" expanded="false" />
+            <element signature="e#28044#28045#0" expanded="false" />
+            <element signature="e#28159#28160#0" expanded="false" />
+            <element signature="e#28204#28205#0" expanded="false" />
+            <element signature="e#28249#28250#0" expanded="false" />
+            <element signature="e#28295#28296#0" expanded="false" />
+            <element signature="e#28406#28407#0" expanded="false" />
+            <element signature="e#28449#28450#0" expanded="false" />
+            <element signature="e#29508#29509#0" expanded="false" />
+            <element signature="e#29550#29551#0" expanded="false" />
+            <element signature="e#29595#29596#0" expanded="false" />
+            <element signature="e#29646#29647#0" expanded="false" />
+            <element signature="e#30368#30369#0" expanded="false" />
+            <element signature="e#30407#30408#0" expanded="false" />
+            <element signature="e#30457#30458#0" expanded="false" />
+            <element signature="e#30498#30499#0" expanded="false" />
+            <element signature="e#30568#30569#0" expanded="false" />
+            <element signature="e#30616#30617#0" expanded="false" />
+            <element signature="e#31930#31931#0" expanded="false" />
+            <element signature="e#31972#31973#0" expanded="false" />
+            <element signature="e#32024#32025#0" expanded="false" />
+            <element signature="e#32066#32067#0" expanded="false" />
+            <element signature="e#32098#32099#0" expanded="false" />
+            <element signature="e#32138#32139#0" expanded="false" />
+            <element signature="e#32168#32169#0" expanded="false" />
+            <element signature="e#32206#32207#0" expanded="false" />
+            <element signature="e#32235#32236#0" expanded="false" />
+            <element signature="e#32274#32275#0" expanded="false" />
+            <element signature="e#32607#32608#0" expanded="false" />
+            <element signature="e#32650#32651#0" expanded="false" />
+            <element signature="e#32694#32695#0" expanded="false" />
+            <element signature="e#32741#32742#0" expanded="false" />
+            <element signature="e#32775#32776#0" expanded="false" />
+            <element signature="e#32816#32817#0" expanded="false" />
+            <element signature="e#32931#32932#0" expanded="false" />
+            <element signature="e#32976#32977#0" expanded="false" />
+            <element signature="e#33021#33022#0" expanded="false" />
+            <element signature="e#33067#33068#0" expanded="false" />
+            <element signature="e#33178#33179#0" expanded="false" />
+            <element signature="e#33221#33222#0" expanded="false" />
+            <element signature="e#33292#33293#0" expanded="false" />
+            <element signature="e#33340#33341#0" expanded="false" />
+            <element signature="e#33398#33399#0" expanded="false" />
+            <element signature="e#33442#33443#0" expanded="false" />
+            <element signature="e#34449#34450#0" expanded="false" />
+            <element signature="e#34490#34491#0" expanded="false" />
+            <element signature="e#34532#34533#0" expanded="false" />
+            <element signature="e#34574#34575#0" expanded="false" />
+            <element signature="e#34609#34610#0" expanded="false" />
+            <element signature="e#34650#34651#0" expanded="false" />
+            <element signature="e#34696#34697#0" expanded="false" />
+            <element signature="e#34743#34744#0" expanded="false" />
+            <element signature="e#34781#34782#0" expanded="false" />
+            <element signature="e#34823#34824#0" expanded="false" />
+            <element signature="e#34858#34859#0" expanded="false" />
+            <element signature="e#34909#34910#0" expanded="false" />
+            <element signature="e#34960#34961#0" expanded="false" />
+            <element signature="e#35003#35004#0" expanded="false" />
+            <element signature="e#35047#35048#0" expanded="false" />
+            <element signature="e#35089#35090#0" expanded="false" />
+            <element signature="e#35204#35205#0" expanded="false" />
+            <element signature="e#35249#35250#0" expanded="false" />
+            <element signature="e#35485#35486#0" expanded="false" />
+            <element signature="e#35528#35529#0" expanded="false" />
+            <element signature="e#35916#35917#0" expanded="false" />
+            <element signature="e#35960#35961#0" expanded="false" />
+            <element signature="e#35989#35990#0" expanded="false" />
+            <element signature="e#36023#36024#0" expanded="false" />
+            <element signature="e#36056#36057#0" expanded="false" />
+            <element signature="e#36094#36095#0" expanded="false" />
+            <element signature="e#36253#36254#0" expanded="false" />
+            <element signature="e#36295#36296#0" expanded="false" />
+            <element signature="e#37422#37423#0" expanded="false" />
+            <element signature="e#37459#37460#0" expanded="false" />
+            <element signature="e#37492#37493#0" expanded="false" />
+            <element signature="e#37535#37536#0" expanded="false" />
+            <element signature="e#37596#37597#0" expanded="false" />
+            <element signature="e#37633#37634#0" expanded="false" />
+            <element signature="e#37671#37672#0" expanded="false" />
+            <element signature="e#37715#37716#0" expanded="false" />
+            <element signature="e#37776#37777#0" expanded="false" />
+            <element signature="e#37822#37823#0" expanded="false" />
+            <element signature="e#40353#40354#0" expanded="false" />
+            <element signature="e#40406#40407#0" expanded="false" />
+            <element signature="e#40720#40721#0" expanded="false" />
+            <element signature="e#40777#40778#0" expanded="false" />
+            <element signature="e#41147#41148#0" expanded="false" />
+            <element signature="e#41197#41198#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/node/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="125" column="24" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/threadpool/ThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="21" />
+          <folding>
+            <element signature="class#Names#0;class#ThreadPool#0" expanded="false" />
+            <element signature="e#4071#4072#0" expanded="true" />
+            <element signature="e#4137#4138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/ClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2680851">
+          <caret line="63" column="6" selection-start-line="63" selection-start-column="6" selection-end-line="63" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elasticsearch/search/aggregations/pipeline/AgrregationUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/search/internal/DefaultSearchContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="78" selection-start-line="132" selection-start-column="61" selection-end-line="132" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/mateus/new1/git/appbase/elasticsearch/core/src/main/java/org/elasticsearch/rest/action/search/RestSearchAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/elasticsearch/search/SearchParse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33213645">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1692#1693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>agregationSearchTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.09057971" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
