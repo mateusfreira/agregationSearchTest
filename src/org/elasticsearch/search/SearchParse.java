@@ -1,6 +1,9 @@
 package org.elasticsearch.search;
 
 import com.google.common.collect.ImmutableMap;
+import org.apache.lucene.index.*;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.SearcherFactory;
 import org.elasticsearch.ElasticsearchParseException;
 import org.elasticsearch.action.search.SearchRequest;
 import org.elasticsearch.cluster.routing.ShardRouting;
@@ -9,6 +12,7 @@ import org.elasticsearch.common.bytes.BytesArray;
 import org.elasticsearch.common.bytes.BytesReference;
 import org.elasticsearch.common.settings.Settings;
 import org.elasticsearch.common.unit.TimeValue;
+import org.elasticsearch.common.util.BigArrays;
 import org.elasticsearch.common.xcontent.XContentFactory;
 import org.elasticsearch.common.xcontent.XContentHelper;
 import org.elasticsearch.common.xcontent.XContentLocation;
@@ -19,6 +23,8 @@ import org.elasticsearch.index.search.stats.StatsGroupsParseElement;
 import org.elasticsearch.node.Node;
 import org.elasticsearch.rest.RestRequest;
 import org.elasticsearch.rest.action.search.RestSearchAction;
+
+import java.io.IOException;
 import java.util.Date;
 
 import org.elasticsearch.search.dfs.DfsPhase;
@@ -49,27 +55,89 @@ public class SearchParse {
         RestRequest request = new FixRestRequest();
         ThreadPool threadPool = new ThreadPool("active");
         searchRequest = RestSearchAction.parseSearchRequest(request, ParseFieldMatcher.EMPTY);
+        Settings settings = Settings
+                .builder()
+                .put("path.home", "/tmp/")
+                .build();
+        Node node = new Node(settings, false);
         //searchRequest
         ShardSearchTransportRequest shardSearchTransportRequest;
         shardSearchTransportRequest = new ShardSearchTransportRequest(searchRequest, ShardRouting.newUnassigned("index", 1, null, false, null), 0,
         null, new Date().getTime());
+        Engine.Searcher searcher =  new Engine.Searcher("index", new IndexSearcher(new IndexReader() {
+            @Override
+            public Fields getTermVectors(int i) throws IOException {
+                return null;
+            }
 
+            @Override
+            public int numDocs() {
+                return 0;
+            }
+
+            @Override
+            public int maxDoc() {
+                return 0;
+            }
+
+            @Override
+            public void document(int i, StoredFieldVisitor storedFieldVisitor) throws IOException {
+
+            }
+
+            @Override
+            protected void doClose() throws IOException {
+
+            }
+
+            @Override
+            public IndexReaderContext getContext() {
+                return null;
+            }
+
+            @Override
+            public int docFreq(Term term) throws IOException {
+                return 0;
+            }
+
+            @Override
+            public long totalTermFreq(Term term) throws IOException {
+                return 0;
+            }
+
+            @Override
+            public long getSumDocFreq(String s) throws IOException {
+                return 0;
+            }
+
+            @Override
+            public int getDocCount(String s) throws IOException {
+                return 0;
+            }
+
+            @Override
+            public long getSumTotalTermFreq(String s) throws IOException {
+                return 0;
+            }
+        }));
+        SearcherFactory factory = new SearcherFactory();
+        BigArrays bigArrays = node.injector().getInstance(BigArrays.class);
         SearchContext context = new DefaultSearchContext(
                 incrementAndGet(),
                 shardSearchTransportRequest,
                 new SearchShardTarget("1", "index", 1),
-                new Engine.Searcher("index", null),
+                searcher,
                 null,
                 null,
                 null,
                 null,
-                null,
+                bigArrays,
                 threadPool.estimatedTimeInMillisCounter(),
                 ParseFieldMatcher.EMPTY, TimeValue.timeValueMillis(10000)
         );
         SearchContext.setCurrent(context);
 
-        Node node = new Node(Settings.EMPTY, false);
+
 
 
         Map<String, SearchParseElement> elementParsers = new HashMap<>();
